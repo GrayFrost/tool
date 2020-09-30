@@ -26,3 +26,4 @@
 
 ### 加密
 * [argon2](https://www.npmjs.com/package/argon2)
+* [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
