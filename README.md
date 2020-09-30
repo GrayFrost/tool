@@ -1,6 +1,10 @@
 # TOOL
 可能会使用的工具包
 
+## cli
+* [commander.js](https://github.com/tj/commander.js)
+* [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)
+
 ## json格式
 * [react-json-view](https://github.com/mac-s-g/react-json-view)
 
