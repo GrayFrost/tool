@@ -7,6 +7,8 @@
 * [chalk](https://github.com/chalk/chalk)
 * [ora](https://github.com/sindresorhus/ora)
 * [download-git-repo](https://www.npmjs.com/package/download-git-repo)
+* [figlet.js](https://github.com/patorjk/figlet.js)
+* [boxen](https://github.com/sindresorhus/boxen)
 * [dotenv](https://github.com/motdotla/dotenv)
 
 ## json格式
